@@ -18,3 +18,4 @@ Extract the ZIP, then open any `.SLDPRT` file from the `CAD` folder in SolidWork
 - [PaigeSecondPipingHolder.SLDPRT](https://github.com/GrootIam154/hydration-station-cad/raw/refs/heads/main/CAD/PaigeSecondPipingHolder.SLDPRT)
 - [PipingHolder2.SLDPRT](https://github.com/GrootIam154/hydration-station-cad/raw/refs/heads/main/CAD/PipingHolder2.SLDPRT)
 - [newBodyFrame.SLDPRT](https://github.com/GrootIam154/hydration-station-cad/raw/refs/heads/main/CAD/newBodyFrame.SLDPRT)
+- [doorHandle_ADA.SLDPRT](https://github.com/GrootIam154/hydration-station-cad/raw/refs/heads/main/CAD/doorHandle_ADA.SLDPRT)
